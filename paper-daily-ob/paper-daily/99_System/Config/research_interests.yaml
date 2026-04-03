@@ -1,0 +1,126 @@
+# 研究兴趣配置
+# 用于 arXiv 论文筛选和推荐
+
+research_domains:
+  "大语言模型":
+    keywords:
+      - "large language model"
+      - "LLM"
+      - "language model"
+      - "transformer"
+      - "pre-training"
+      - "fine-tuning"
+      - "prompt learning"
+      - "in-context learning"
+      - "chain of thought"
+      - "reasoning"
+    priority: 1.0
+    arxiv_categories:
+      - "cs.CL"
+      - "cs.AI"
+
+  "多模态学习":
+    keywords:
+      - "multimodal"
+      - "vision-language"
+      - "image-text"
+      - "VLM"
+      - "LMM"
+      - "visual reasoning"
+      - "image captioning"
+      - "VQA"
+      - "visual question answering"
+    priority: 1.0
+    arxiv_categories:
+      - "cs.CV"
+      - "cs.CL"
+      - "cs.MM"
+
+  "高效推理":
+    keywords:
+      - "efficient inference"
+      - "model compression"
+      - "quantization"
+      - "pruning"
+      - "distillation"
+      - "acceleration"
+      - "sparse"
+      - "low-rank"
+      - "LoRA"
+    priority: 0.9
+    arxiv_categories:
+      - "cs.LG"
+      - "cs.AI"
+
+  "强化学习":
+    keywords:
+      - "reinforcement learning"
+      - "RL"
+      - "policy optimization"
+      - "PPO"
+      - "actor-critic"
+      - "RLHF"
+      - "reward modeling"
+    priority: 0.8
+    arxiv_categories:
+      - "cs.LG"
+      - "cs.AI"
+
+  "智能体":
+    keywords:
+      - "autonomous agent"
+      - "LLM agent"
+      - "multi-agent system"
+      - "MAS"
+      - "agent architecture"
+      - "planning"
+      - "reasoning"
+      - "tool use"
+      - "agent evaluation"
+      - "orchestration"
+      - "long-term memory"
+      - "reflection"
+      - "self-correction"
+      - "agentic workflow"
+      - "human-agent interaction"
+      - "tool-augmented generation"
+      - "agent-based modeling"
+      - "embodied agent"
+      - "social agent"
+      - "multi-agent collaboration"
+      - "agent communication"
+      - "agent coordination"
+      - "agent alignment"
+      - "agent societies"
+      - "swarm intelligence"
+      - "collective intelligence"
+      - "agent-based simulation"
+      - "multi-agent reinforcement learning"
+      - "MARL"
+      - "agent negotiation"
+      - "agent teamwork"
+      - "agent competition"
+      - "agent hierarchy"
+      - "federated agents"
+      - "decentralized agents"
+      - "multi-agent planning"
+      - "agent social dynamics"
+      - "multi-agent optimization"
+    priority: 1.0
+    arxiv_categories:
+      - "cs.AI"
+      - "cs.CL"
+      - "cs.MA"
+
+# 排除关键词（这些词出现的论文会被过滤）
+excluded_keywords:
+  - "survey"
+  - "review"
+  - "workshop"
+
+# 评分权重
+scoring_weights:
+  relevance: 0.4      # 相关性权重
+  recency: 0.2        # 新近性权重
+  popularity: 0.3     # 热门度权重
+  quality: 0.1        # 质量权重

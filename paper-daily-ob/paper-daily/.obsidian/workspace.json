@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "bc734b7b587b9c36",
+    "type": "split",
+    "children": [
+      {
+        "id": "1facd460811473c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d015fe2aeda33afd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f877dcfcff6702d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bc8bc55a73cf4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0afe6f4f7af75fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b08b5c9f4bd000d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5edd8bb6125fc09b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69ce528804fee060",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aea8b3fc2c221b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "592b3ac4252e7875",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Place_it_R1_MLLM_Video_Object_Insertion 的反向链接列表"
+            }
+          },
+          {
+            "id": "3ef9374c6544240b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "9fe4beb3db7b65db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "36839b1eb7881bf6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6ff719d02c9efd19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 612.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "d015fe2aeda33afd",
+  "lastOpenFiles": [
+    "未命名.md",
+    "未命名.canvas",
+    "未命名.base",
+    "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md",
+    "Hypothesis-Conditioned Query Rewriting for Decision-Useful Retrieval.md",
+    "10_Daily/2026-03-20论文推荐.md",
+    "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md",
+    "10_Daily/2026-03-19 论文推荐.md",
+    "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md",
+    "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning/images/ablation_ent_page1.png",
+    "20_Research/Papers/智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md",
+    "10_Daily/2026-03-15 论文推荐.md",
+    "智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts/images/fig_dcicf_flow_page1.md",
+    "智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts/images",
+    "智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts",
+    "智能体",
+    "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md",
+    "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL/images/entropy.pdf",
+    "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery/images/index.md",
+    "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md",
+    "10_Daily/2026-03-12 论文推荐.md",
+    "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md",
+    "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md",
+    "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md",
+    "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md",
+    "10_Daily/2026-03-11 论文推荐.md",
+    "10_Daily/2026-03-10 论文推荐.md",
+    "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md",
+    "20_Research/Papers/强化学习",
+    "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/TOPT.pdf",
+    "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/pipeline.pdf",
+    "20_Research/Papers/大语言模型/SPD-RAG_Sub-Agent_Per_Document/images/index.md",
+    "20_Research/Papers/大语言模型/SPD-RAG_Sub-Agent_Per_Document/images/figure5_latency.png",
+    "20_Research/Papers/大语言模型/SPD-RAG_Sub-Agent_Per_Document/images/figure4_cost_quality.png",
+    "20_Research/Papers/大语言模型/SPD-RAG_Sub-Agent_Per_Document/images/figure3_avg_score_by_domain.png",
+    "20_Research/Papers/大语言模型/SPD-RAG_Sub-Agent_Per_Document/images/figure2_avg_score_by_task.png",
+    "20_Research/Papers/大语言模型/SPD-RAG_Sub-Agent_Per_Document/images/architecture.png",
+    "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md",
+    "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/pipeline_page1.png",
+    "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/memory_fig_page1.png",
+    "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/memory_fig.pdf",
+    "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/index.md",
+    "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/pilot_study_structext.pdf",
+    "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/ablation_chunking_fig_page1.png",
+    "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md",
+    "10_Daily/2026-03-09 论文推荐.md",
+    "20_Research/Papers/大语言模型/AdaCultureSafe_Adaptive_Cultural_Safety/images/framework-5_page1.png"
+  ]
+}

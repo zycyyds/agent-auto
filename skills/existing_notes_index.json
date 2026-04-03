@@ -1,0 +1,1080 @@
+{
+  "notes": [
+    {
+      "path": "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md",
+      "filename": "Hypothesis-Conditioned-Query-Rewriting.md",
+      "short_name": "Hypothesis-Conditioned-Query-Rewriting",
+      "path_str": "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md",
+      "title": "Hypothesis-Conditioned Query Rewriting for Decision-Useful Retrieval",
+      "tags": [
+        "论文笔记",
+        "RAG",
+        "检索增强生成",
+        "查询重写",
+        "医疗问答",
+        "决策支持"
+      ],
+      "title_keywords": [
+        "Decision-Useful"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "RAG",
+        "检索增强生成",
+        "查询重写",
+        "医疗问答",
+        "决策支持"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md",
+      "filename": "MoRI-Learning-Motivation-Grounded-Reasoning.md",
+      "short_name": "MoRI-Learning-Motivation-Grounded-Reasoning",
+      "path_str": "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md",
+      "title": "MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models",
+      "tags": [
+        "论文笔记",
+        "科学创新",
+        "强化学习",
+        "推理能力",
+        "智能体",
+        "动机驱动推理"
+      ],
+      "title_keywords": [
+        "MoRI",
+        "Motivation-Grounded"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "科学创新",
+        "强化学习",
+        "推理能力",
+        "智能体",
+        "动机驱动推理"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models.md",
+      "filename": "AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models.md",
+      "short_name": "AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models",
+      "path_str": "20_Research/Papers/大语言模型/AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models.md",
+      "title": "AdaCultureSafe: Adaptive Cultural Safety Grounded by Cultural Knowledge in Large Language Models",
+      "tags": [
+        "论文笔记",
+        "大语言模型",
+        "文化安全",
+        "知识增强",
+        "对齐"
+      ],
+      "title_keywords": [
+        "AdaCultureSafe"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "大语言模型",
+        "文化安全",
+        "知识增强"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md",
+      "filename": "Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md",
+      "short_name": "Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM",
+      "path_str": "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md",
+      "title": "Emotion is Not Just a Label: Latent Emotional Factors in LLM Processing",
+      "tags": [
+        "论文笔记",
+        "大语言模型",
+        "情感计算",
+        "注意力机制",
+        "鲁棒性",
+        "数据集"
+      ],
+      "title_keywords": [],
+      "tag_keywords": [
+        "论文笔记",
+        "大语言模型",
+        "情感计算",
+        "注意力机制",
+        "鲁棒性",
+        "数据集"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md",
+      "filename": "TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md",
+      "short_name": "TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG",
+      "path_str": "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md",
+      "title": "TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation",
+      "tags": [
+        "论文笔记",
+        "大语言模型",
+        "RAG",
+        "结构化推理",
+        "多跳问答",
+        "知识图谱"
+      ],
+      "title_keywords": [
+        "TaSR-RAG",
+        "Retrieval-Augmented"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "大语言模型",
+        "RAG",
+        "结构化推理",
+        "多跳问答",
+        "知识图谱"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md",
+      "filename": "BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md",
+      "short_name": "BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs",
+      "path_str": "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md",
+      "title": "BTZSC: A Benchmark for Zero-Shot Text Classification Across Cross-Encoders, Embedding Models, Rerankers and LLMs",
+      "tags": [
+        "论文笔记",
+        "零样本分类",
+        "基准评测",
+        "文本嵌入",
+        "Reranker",
+        "LLM"
+      ],
+      "title_keywords": [
+        "BTZSC",
+        "Zero-Shot",
+        "Cross-Encoders"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "零样本分类",
+        "基准评测",
+        "文本嵌入",
+        "Reranker",
+        "LLM"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md",
+      "filename": "LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md",
+      "short_name": "LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing",
+      "path_str": "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md",
+      "title": "LycheeCluster: Efficient Long-Context Inference with Structure-Aware Chunking and Hierarchical KV Indexing",
+      "tags": [
+        "论文笔记",
+        "大语言模型",
+        "长上下文推理",
+        "KV-Cache",
+        "推理加速"
+      ],
+      "title_keywords": [
+        "LycheeCluster",
+        "Long-Context",
+        "Structure-Aware"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "大语言模型",
+        "长上下文推理",
+        "KV-Cache",
+        "推理加速"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md",
+      "filename": "SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md",
+      "short_name": "SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation",
+      "path_str": "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md",
+      "title": "SPD-RAG: Sub-Agent Per Document Retrieval-Augmented Generation",
+      "tags": [
+        "论文笔记",
+        "大语言模型",
+        "RAG",
+        "多智能体",
+        "多文档问答"
+      ],
+      "title_keywords": [
+        "SPD-RAG",
+        "Sub-Agent",
+        "Retrieval-Augmented"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "大语言模型",
+        "RAG",
+        "多智能体",
+        "多文档问答"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md",
+      "filename": "COLD_Steer_InContext_OneStep_Learning.md",
+      "short_name": "COLD_Steer_InContext_OneStep_Learning",
+      "path_str": "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md",
+      "title": "COLD-Steer: Steering Large Language Models via In-Context One-step Learning Dynamics",
+      "tags": [
+        "论文笔记",
+        "LLM",
+        "Activation-Steering",
+        "In-Context-Learning",
+        "Efficient-Control",
+        "Pluralistic-Alignment"
+      ],
+      "title_keywords": [
+        "COLD-Steer",
+        "In-Context"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "LLM",
+        "Activation-Steering",
+        "In-Context-Learning",
+        "Efficient-Control"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md",
+      "filename": "Abductive_Reasoning_Syllogistic_LLM.md",
+      "short_name": "Abductive_Reasoning_Syllogistic_LLM",
+      "path_str": "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md",
+      "title": "Abductive Reasoning with Syllogistic Forms in Large Language Models",
+      "tags": [
+        "论文笔记",
+        "LLM",
+        "Reasoning",
+        "Abduction",
+        "Syllogism",
+        "Belief-Bias"
+      ],
+      "title_keywords": [],
+      "tag_keywords": [
+        "论文笔记",
+        "LLM",
+        "Reasoning",
+        "Abduction",
+        "Syllogism",
+        "Belief-Bias"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md",
+      "filename": "RewardFlow-Topology-Aware-Reward-Propagation.md",
+      "short_name": "RewardFlow-Topology-Aware-Reward-Propagation",
+      "path_str": "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md",
+      "title": "RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models",
+      "tags": [
+        "论文笔记",
+        "强化学习",
+        "智能体推理",
+        "状态图",
+        "奖励传播",
+        "LLM-Agent"
+      ],
+      "title_keywords": [
+        "RewardFlow",
+        "Topology-Aware"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "强化学习",
+        "智能体推理",
+        "状态图",
+        "奖励传播",
+        "LLM-Agent"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md",
+      "filename": "When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md",
+      "short_name": "When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS",
+      "path_str": "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md",
+      "title": "When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS",
+      "tags": [
+        "论文笔记",
+        "大语言模型",
+        "语音合成",
+        "LoRA 微调",
+        "数据多样性",
+        "声音克隆"
+      ],
+      "title_keywords": [
+        "Fine-Tuning"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "大语言模型",
+        "语音合成",
+        "LoRA 微调",
+        "数据多样性",
+        "声音克隆"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md",
+      "filename": "V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md",
+      "short_name": "V_{0.5}_Generalist_Value_Model_for_Sparse_RL",
+      "path_str": "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md",
+      "title": "$V_{0.5}$: Generalist Value Model as a Prior for Sparse RL Rollouts",
+      "tags": [
+        "论文笔记",
+        "强化学习",
+        "RLVR",
+        "价值模型",
+        "策略梯度",
+        "数学推理"
+      ],
+      "title_keywords": [
+        "$V_{0.5}$"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "强化学习",
+        "RLVR",
+        "价值模型",
+        "策略梯度",
+        "数学推理"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md",
+      "filename": "UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md",
+      "short_name": "UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery",
+      "path_str": "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md",
+      "title": "UAV-MARL: Multi-Agent Reinforcement Learning for Time-Critical and Dynamic Medical Supply Delivery",
+      "tags": [
+        "论文笔记",
+        "强化学习",
+        "多智能体系统",
+        "PPO",
+        "无人机物流",
+        "医疗配送"
+      ],
+      "title_keywords": [
+        "UAV-MARL",
+        "Multi-Agent",
+        "Time-Critical"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "强化学习",
+        "多智能体系统",
+        "PPO",
+        "无人机物流",
+        "医疗配送"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md",
+      "filename": "SPAARS_Safer_RL_Policy_Alignment.md",
+      "short_name": "SPAARS_Safer_RL_Policy_Alignment",
+      "path_str": "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md",
+      "title": "SPAARS: Safer RL Policy Alignment through Abstract Exploration and Refined Exploitation of Action Space",
+      "tags": [
+        "论文笔记",
+        "强化学习",
+        "安全对齐",
+        "课程学习",
+        "Offline-to-Online RL",
+        "CVAE"
+      ],
+      "title_keywords": [
+        "SPAARS"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "强化学习",
+        "安全对齐",
+        "课程学习",
+        "Offline-to-Online RL",
+        "CVAE"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md",
+      "filename": "Place_it_R1_MLLM_Video_Object_Insertion.md",
+      "short_name": "Place_it_R1_MLLM_Video_Object_Insertion",
+      "path_str": "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md",
+      "title": "Place-it-R1: Unlocking Environment-aware Reasoning Potential of MLLM for Video Object Insertion",
+      "tags": [
+        "论文笔记",
+        "MLLM",
+        "Video-Editing",
+        "Chain-of-Thought",
+        "Physical-Reasoning",
+        "Diffusion-DPO"
+      ],
+      "title_keywords": [
+        "Place-it-R1"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "MLLM",
+        "Video-Editing",
+        "Chain-of-Thought",
+        "Physical-Reasoning",
+        "Diffusion-DPO"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md",
+      "filename": "Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md",
+      "short_name": "Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models",
+      "path_str": "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md",
+      "title": "Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models",
+      "tags": [
+        "论文笔记",
+        "多模态学习",
+        "流式视频理解",
+        "在线推理",
+        "多轮交互",
+        "段级记忆"
+      ],
+      "title_keywords": [
+        "Think While Watching",
+        "Segment-Level",
+        "Multi-Turn"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "多模态学习",
+        "流式视频理解",
+        "在线推理",
+        "多轮交互",
+        "段级记忆"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md",
+      "filename": "From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md",
+      "short_name": "From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts",
+      "path_str": "20_Research/Papers/智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md",
+      "title": "From Debate to Deliberation: Structured Collective Reasoning with Typed Epistemic Acts",
+      "tags": [
+        "论文笔记",
+        "智能体",
+        "多智能体协作",
+        "集体推理",
+        "DCI"
+      ],
+      "title_keywords": [],
+      "tag_keywords": [
+        "论文笔记",
+        "智能体",
+        "多智能体协作",
+        "集体推理",
+        "DCI"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/智能体/From_Debate_to_Deliberation/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/智能体/From_Debate_to_Deliberation/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md",
+      "filename": "Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md",
+      "short_name": "Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models",
+      "path_str": "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md",
+      "title": "Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+      "tags": [
+        "论文笔记",
+        "多模态学习",
+        "3D-理解",
+        "VLM",
+        "空间推理",
+        "语言定位"
+      ],
+      "title_keywords": [
+        "Loc3R-VLM",
+        "Vision-Language"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "多模态学习",
+        "3D-理解",
+        "VLM",
+        "空间推理",
+        "语言定位"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/多模态学习/Think_While_Watching/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/多模态学习/Think_While_Watching/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md",
+      "filename": "CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md",
+      "short_name": "CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning",
+      "path_str": "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md",
+      "title": "CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via Generator-Verifier Co-Evolution",
+      "tags": [
+        "论文笔记",
+        "大语言模型",
+        "强化学习",
+        "无标签推理",
+        "生成器 - 验证器协同进化",
+        "共识陷阱"
+      ],
+      "title_keywords": [
+        "CoVerRL",
+        "Label-Free",
+        "Generator-Verifier",
+        "Co-Evolution"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "大语言模型",
+        "强化学习",
+        "无标签推理",
+        "生成器 - 验证器协同进化",
+        "共识陷阱"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md",
+      "filename": "Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md",
+      "short_name": "Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval",
+      "path_str": "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md",
+      "title": "Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval",
+      "tags": [
+        "论文笔记",
+        "大语言模型",
+        "幻觉缓解",
+        "RAG",
+        "检索增强",
+        "事实验证"
+      ],
+      "title_keywords": [
+        "Domain-Grounded"
+      ],
+      "tag_keywords": [
+        "论文笔记",
+        "大语言模型",
+        "幻觉缓解",
+        "RAG",
+        "检索增强",
+        "事实验证"
+      ]
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/大语言模型/LycheeCluster_Efficient_Long-Context_Inference/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/AdaCultureSafe_Adaptive_Cultural_Safety/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/大语言模型/AdaCultureSafe_Adaptive_Cultural_Safety/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/SPD-RAG_Sub-Agent_Per_Document/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/大语言模型/SPD-RAG_Sub-Agent_Per_Document/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/BTZSC_Zero-Shot_Text_Classification/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/大语言模型/BTZSC_Zero-Shot_Text_Classification/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    },
+    {
+      "path": "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS/images/index.md",
+      "filename": "index.md",
+      "short_name": "index",
+      "path_str": "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS/images/index.md",
+      "title": "index",
+      "tags": [],
+      "title_keywords": [],
+      "tag_keywords": []
+    }
+  ],
+  "keyword_to_notes": {
+    "decision-useful": [
+      "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md"
+    ],
+    "论文笔记": [
+      "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md",
+      "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md",
+      "20_Research/Papers/大语言模型/AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models.md",
+      "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md",
+      "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md",
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md",
+      "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md",
+      "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md",
+      "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md",
+      "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md",
+      "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md",
+      "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md",
+      "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md",
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md",
+      "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md",
+      "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md",
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md",
+      "20_Research/Papers/智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md",
+      "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md",
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md",
+      "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md"
+    ],
+    "rag": [
+      "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md",
+      "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md",
+      "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md",
+      "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md"
+    ],
+    "检索增强生成": [
+      "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md"
+    ],
+    "查询重写": [
+      "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md"
+    ],
+    "医疗问答": [
+      "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md"
+    ],
+    "决策支持": [
+      "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md"
+    ],
+    "hypothesis-conditioned-query-rewriting": [
+      "20_Research/Papers/大语言模型/Hypothesis-Conditioned-Query-Rewriting.md"
+    ],
+    "mori": [
+      "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md"
+    ],
+    "motivation-grounded": [
+      "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md"
+    ],
+    "科学创新": [
+      "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md"
+    ],
+    "强化学习": [
+      "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md",
+      "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md",
+      "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md",
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md",
+      "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md",
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md"
+    ],
+    "推理能力": [
+      "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md"
+    ],
+    "智能体": [
+      "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md",
+      "20_Research/Papers/智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md"
+    ],
+    "动机驱动推理": [
+      "20_Research/Papers/大语言模型/MoRI-Learning-Motivation-Grounded-Reasoning.md"
+    ],
+    "adaculturesafe": [
+      "20_Research/Papers/大语言模型/AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models.md"
+    ],
+    "大语言模型": [
+      "20_Research/Papers/大语言模型/AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models.md",
+      "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md",
+      "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md",
+      "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md",
+      "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md",
+      "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md",
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md",
+      "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md"
+    ],
+    "文化安全": [
+      "20_Research/Papers/大语言模型/AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models.md"
+    ],
+    "知识增强": [
+      "20_Research/Papers/大语言模型/AdaCultureSafe__Adaptive_Cultural_Safety_Grounded_by_Cultural_Knowledge_in_Large_Language_Models.md"
+    ],
+    "情感计算": [
+      "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md"
+    ],
+    "注意力机制": [
+      "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md"
+    ],
+    "鲁棒性": [
+      "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md"
+    ],
+    "数据集": [
+      "20_Research/Papers/大语言模型/Emotion_is_Not_Just_a_Label_Latent_Emotional_Factors_in_LLM.md"
+    ],
+    "tasr-rag": [
+      "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md"
+    ],
+    "retrieval-augmented": [
+      "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md",
+      "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md"
+    ],
+    "结构化推理": [
+      "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md"
+    ],
+    "多跳问答": [
+      "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md"
+    ],
+    "知识图谱": [
+      "20_Research/Papers/大语言模型/TaSR-RAG_Taxonomy-guided_Structured_Reasoning_for_RAG.md"
+    ],
+    "btzsc": [
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md"
+    ],
+    "zero-shot": [
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md"
+    ],
+    "cross-encoders": [
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md"
+    ],
+    "零样本分类": [
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md"
+    ],
+    "基准评测": [
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md"
+    ],
+    "文本嵌入": [
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md"
+    ],
+    "reranker": [
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md"
+    ],
+    "llm": [
+      "20_Research/Papers/大语言模型/BTZSC__A_Benchmark_for_Zero-Shot_Text_Classification_Across_Cross-Encoders,_Embedding_Models,_Rerankers_and_LLMs.md",
+      "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md",
+      "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md"
+    ],
+    "lycheecluster": [
+      "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md"
+    ],
+    "long-context": [
+      "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md"
+    ],
+    "structure-aware": [
+      "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md"
+    ],
+    "长上下文推理": [
+      "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md"
+    ],
+    "kv-cache": [
+      "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md"
+    ],
+    "推理加速": [
+      "20_Research/Papers/大语言模型/LycheeCluster__Efficient_Long-Context_Inference_with_Structure-Aware_Chunking_and_Hierarchical_KV_Indexing.md"
+    ],
+    "spd-rag": [
+      "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md"
+    ],
+    "sub-agent": [
+      "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md"
+    ],
+    "多智能体": [
+      "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md"
+    ],
+    "多文档问答": [
+      "20_Research/Papers/大语言模型/SPD-RAG__Sub-Agent_Per_Document_Retrieval-Augmented_Generation.md"
+    ],
+    "cold-steer": [
+      "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md"
+    ],
+    "in-context": [
+      "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md"
+    ],
+    "activation-steering": [
+      "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md"
+    ],
+    "in-context-learning": [
+      "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md"
+    ],
+    "efficient-control": [
+      "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md"
+    ],
+    "cold_steer_incontext_onestep_learning": [
+      "20_Research/Papers/大语言模型/COLD_Steer_InContext_OneStep_Learning.md"
+    ],
+    "reasoning": [
+      "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md"
+    ],
+    "abduction": [
+      "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md"
+    ],
+    "syllogism": [
+      "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md"
+    ],
+    "belief-bias": [
+      "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md"
+    ],
+    "abductive_reasoning_syllogistic_llm": [
+      "20_Research/Papers/大语言模型/Abductive_Reasoning_Syllogistic_LLM.md"
+    ],
+    "rewardflow": [
+      "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md"
+    ],
+    "topology-aware": [
+      "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md"
+    ],
+    "智能体推理": [
+      "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md"
+    ],
+    "状态图": [
+      "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md"
+    ],
+    "奖励传播": [
+      "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md"
+    ],
+    "llm-agent": [
+      "20_Research/Papers/大语言模型/RewardFlow-Topology-Aware-Reward-Propagation.md"
+    ],
+    "fine-tuning": [
+      "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md"
+    ],
+    "语音合成": [
+      "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md"
+    ],
+    "lora 微调": [
+      "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md"
+    ],
+    "数据多样性": [
+      "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md"
+    ],
+    "声音克隆": [
+      "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS.md"
+    ],
+    "$v_{0.5}$": [
+      "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md"
+    ],
+    "rlvr": [
+      "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md"
+    ],
+    "价值模型": [
+      "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md"
+    ],
+    "策略梯度": [
+      "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md"
+    ],
+    "数学推理": [
+      "20_Research/Papers/强化学习/V_{0.5}_Generalist_Value_Model_for_Sparse_RL.md"
+    ],
+    "uav-marl": [
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md"
+    ],
+    "multi-agent": [
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md"
+    ],
+    "time-critical": [
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md"
+    ],
+    "多智能体系统": [
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md"
+    ],
+    "ppo": [
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md"
+    ],
+    "无人机物流": [
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md"
+    ],
+    "医疗配送": [
+      "20_Research/Papers/强化学习/UAV-MARL_Multi-Agent_RL_for_Medical_Supply_Delivery.md"
+    ],
+    "spaars": [
+      "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md"
+    ],
+    "安全对齐": [
+      "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md"
+    ],
+    "课程学习": [
+      "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md"
+    ],
+    "offline-to-online rl": [
+      "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md"
+    ],
+    "cvae": [
+      "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md"
+    ],
+    "spaars_safer_rl_policy_alignment": [
+      "20_Research/Papers/强化学习/SPAARS_Safer_RL_Policy_Alignment.md"
+    ],
+    "place-it-r1": [
+      "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md"
+    ],
+    "mllm": [
+      "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md"
+    ],
+    "video-editing": [
+      "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md"
+    ],
+    "chain-of-thought": [
+      "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md"
+    ],
+    "physical-reasoning": [
+      "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md"
+    ],
+    "diffusion-dpo": [
+      "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md"
+    ],
+    "place_it_r1_mllm_video_object_insertion": [
+      "20_Research/Papers/多模态学习/Place_it_R1_MLLM_Video_Object_Insertion.md"
+    ],
+    "think while watching": [
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md"
+    ],
+    "segment-level": [
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md"
+    ],
+    "multi-turn": [
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md"
+    ],
+    "多模态学习": [
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md",
+      "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md"
+    ],
+    "流式视频理解": [
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md"
+    ],
+    "在线推理": [
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md"
+    ],
+    "多轮交互": [
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md"
+    ],
+    "段级记忆": [
+      "20_Research/Papers/多模态学习/Think_While_Watching__Online_Streaming_Segment-Level_Memory_for_Multi-Turn_Video_Reasoning_in_Multimodal_Large_Language_Models.md"
+    ],
+    "多智能体协作": [
+      "20_Research/Papers/智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md"
+    ],
+    "集体推理": [
+      "20_Research/Papers/智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md"
+    ],
+    "dci": [
+      "20_Research/Papers/智能体/From_Debate_to_Deliberation__Structured_Collective_Reasoning_with_Typed_Epistemic_Acts.md"
+    ],
+    "index": [
+      "20_Research/Papers/大语言模型/When_Fine-Tuning_Fails_Data_Diversity_in_LLM_TTS/images/index.md"
+    ],
+    "loc3r-vlm": [
+      "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md"
+    ],
+    "vision-language": [
+      "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md"
+    ],
+    "3d-理解": [
+      "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md"
+    ],
+    "vlm": [
+      "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md"
+    ],
+    "空间推理": [
+      "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md"
+    ],
+    "语言定位": [
+      "20_Research/Papers/多模态学习/Loc3R-VLM/Loc3R-VLM_Language-based_Localization_and_3D_Reasoning_with_Vision-Language_Models.md"
+    ],
+    "coverrl": [
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md"
+    ],
+    "label-free": [
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md"
+    ],
+    "generator-verifier": [
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md"
+    ],
+    "co-evolution": [
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md"
+    ],
+    "无标签推理": [
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md"
+    ],
+    "生成器 - 验证器协同进化": [
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md"
+    ],
+    "共识陷阱": [
+      "20_Research/Papers/大语言模型/CoVerRL/CoVerRL_Breaking_the_Consensus_Trap_in_Label-Free_Reasoning.md"
+    ],
+    "domain-grounded": [
+      "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md"
+    ],
+    "幻觉缓解": [
+      "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md"
+    ],
+    "检索增强": [
+      "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md"
+    ],
+    "事实验证": [
+      "20_Research/Papers/大语言模型/Mitigating-LLM-Hallucinations/Mitigating_LLM_Hallucinations_through_Domain-Grounded_Tiered_Retrieval.md"
+    ]
+  }
+}
