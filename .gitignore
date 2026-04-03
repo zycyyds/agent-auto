@@ -1,5 +1,6 @@
 .DS_Store
 .superpowers/
 .vscode/
+.worktrees/
 __pycache__/
 *.pyc
