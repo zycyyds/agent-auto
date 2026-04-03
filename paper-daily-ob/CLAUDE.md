@@ -8,9 +8,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 仓库结构（高层概览）
 
-- `paper-daily/10_Daily/`：按日期组织的“论文推荐”每日汇总笔记（Markdown）。
-- `paper-daily/20_Research/`：按研究方向分类的论文详细笔记与配套图片索引（`images/index.md`）。
-- `paper-daily/99_System/Config/`：研究兴趣与筛选权重配置（`research_interests.yaml`），用于论文筛选/推荐的主题、关键词、权重等。
-- `paper-daily/arxiv_filtered.json`：某次筛选结果的论文清单与评分（含时间窗口、论文元数据与得分）。
-- `paper-daily/existing_notes_index.json`：现有笔记索引（当前为空）。
-- `paper-daily/.obsidian/`：Obsidian 工作区配置。
+- `daily_recommend/`：每日 Top10 推荐汇总（Markdown）
+- `research/YYYY-MM-DD/`：Top3 深度解读报告（Markdown，内嵌图片）
+- `raw_paper/YYYY-MM-DD/论文标题/`：论文原文 PDF 与图片
+  - `images/` 与 PDF 同级
+- `paper-daily/99_System/Config/`：研究兴趣与筛选权重配置（research_interests.yaml）
